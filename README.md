@@ -18,7 +18,7 @@ More details please refer to the companion paper where this method first occurre
 
 ## Recommended configuration
 * a). 128 GB memory or better
-* b). 1 NVIDIA RTX 2080 Ti GPU or better
+* b). 1 NVIDIA GeForce RTX 3090 GPU or better
 
 
 # Demo
