@@ -11,7 +11,7 @@ We develop a confocal scanning light-field microscopy (csLFM), which synchronous
 
 This work mainly involves hardware innovations and physical propagation derivations. To enhance the ease of use of csLFM, we open-source this code package that is used for data processing after csLFM acquisiyion, including csLFM PSF generation and iterative 3D reconstructions. We also provides sLFM PSF, data and codes for the comparison.
 
-More details please refer to the companion paper where this method first occurred [[paper]] (this link will be avaiable after paper publication). Next, we will guide you step by step to implement the csLFM reconstruction.
+More details please refer to the companion paper where this method first occurred [[paper]] (this link will be avaiable after paper publication). Next, we will guide you step by step to implement the csLFM PSF and reconstruction.
 
 
 # System Environment
