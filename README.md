@@ -53,4 +53,4 @@ If you use this code and relevant data, please cite the corresponding paper wher
 
 # Correspondence
 
-Should you have any questions regarding this code and the corresponding results, please contact Zhi Lu (luzhi@tsinghua.edu.cn). 
+Should you have any questions regarding this codes and the corresponding results, please contact Zhi Lu (luzhi@tsinghua.edu.cn). 
