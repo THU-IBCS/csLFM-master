@@ -1,7 +1,7 @@
 % 3D reconstruciton for csLFM
 % The Code is created based on the method described in the following paper 
 %        ZHI LU, SIQING ZUO, MINGHUI SHI etc.
-%        Confocal scanning light-field microscopy
+%        High-fidelity long-term intravital subcellular imaging with confocal scanning light-field microscopy
 %        in submission, 2023.
 % 
 %    Contact: ZHI LU (luzhi@tsinghua.edu.cn)
