@@ -11,7 +11,7 @@ We develop a confocal scanning light-field microscopy (csLFM), which synchronous
 
 This work mainly involves hardware innovations and physical propagation derivations. To enhance the ease of use of csLFM, we open-source this code package that is used for data processing after csLFM acquisiyion, including csLFM PSF generation and iterative 3D reconstructions. We also provides sLFM PSF, data and codes for the comparison.
 
-More details please refer to the companion paper where this method first occurred [[paper]] (this link will be avaiable after paper publication). Next, we will guide you step by step to implement the csLFM PSF and reconstruction.
+More details please refer to the companion paper where this method first occurred [[paper]](https://www.nature.com/articles/s41587-024-02249-5). Next, we will guide you step by step to implement the csLFM PSF and reconstruction.
 
 
 # System Environment
@@ -49,7 +49,7 @@ The centerviews and orthogonal average intensity projections of a YFP-labelled m
 
 If you use this code and relevant data, please cite the corresponding paper where original methods appeared:
 
-[[paper]] (unavaiable now)
+[[paper]](https://www.nature.com/articles/s41587-024-02249-5)
 
 # Correspondence
 
