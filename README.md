@@ -43,7 +43,7 @@ More details please refer to the companion paper where this method first occurre
 
 The centerviews and orthogonal average intensity projections of a YFP-labelled mouse brainslice by sLFM and csLFM are exhibited below. The white dashed lines indicate the regions for yz projection. For more results and further analysis, please refer to the companion paper where this method first occurred [[paper]](https://www.nature.com/articles/s41587-024-02249-5)
 
-<img src="Images/Results.jpg">
+<img src="Results.jpg">
 
 # Citation
 
